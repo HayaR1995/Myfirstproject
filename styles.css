@@ -1,0 +1,10 @@
+.Breif-facts{
+  list-style: none;padding: 2px;}
+.interesting-fact{font-style: italic;}
+.Scientific{font-weight: bold;}
+.Height{font-weight: bold; }
+.Habitat{font-weight: bold; }
+.Lifespan{font-weight: bold;}
+.Animal-facts{background-color:rgb(50,50,50);border:5px solid ; padding: 2px;width:304px; }
+.Animal-Information{border: 5px solid ;padding: 2px;}
+img{width:300px;}
